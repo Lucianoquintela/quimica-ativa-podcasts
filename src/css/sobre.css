@@ -1,0 +1,30 @@
+
+.team {
+    padding: 150px 300px;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.team h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+
+.team-member h3 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.team-member p {
+    font-size: 14px;
+    color: #666;
+}
+
+@media (max-width: 768px) {
+    .team {
+        padding: 50px 30px;
+        background-color: #f4f4f4;
+        text-align: center;
+    }
+}
